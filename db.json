@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "nombre": "ROBERTO",
+      "precio": "700666",
+      "id": 8
+    },
+    {
+      "nombre": "ROBERTO",
+      "precio": 2322,
+      "id": 9
+    },
+    {
+      "nombre": "Roberto",
+      "precio": 259,
+      "id": 10
+    },
+    {
+      "nombre": "ROBERTO",
+      "precio": 259,
+      "id": 11
+    },
+    {
+      "nombre": "César",
+      "precio": 22,
+      "id": 12
+    }
+  ]
+}
